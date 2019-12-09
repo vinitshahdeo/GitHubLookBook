@@ -1,6 +1,6 @@
-# GitHub LookBook
+# GitHub LookBook  :mag_right:
 
-##  :mag_right: Look up the GitHub profiles with better UI experience.
+## Look up the GitHub profiles with better UI experience. 
 
 **It helps you browse social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
 
@@ -15,3 +15,4 @@ Other features help you to -
 - :rocket: Get a chance to **tweet** your work.
  
 - :construction: Many features yet to come. Please share and do have a look!
+
