@@ -1,3 +1,7 @@
+/**
+ * 
+ * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ */
 $(function() {
 
     $('#ghsubmitbtn').on('click', function(e) {
