@@ -2,7 +2,7 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
-## Look up the GitHub profiles with better UI experience.
+## [Look up](https://vinitshahdeo.github.io/GitHubLookBook/) the GitHub profiles with better UI experience.
 
 > **Click [here](https://vinitshahdeo.github.io/GitHubLookBook/) to view live demo.**
 
