@@ -50,3 +50,8 @@ if (isAwesome) {
 ```
 
 -----------
+
+<br>
+
+[![O2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)  [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) [![SFW](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://github.com/vinitshahdeo)
+
