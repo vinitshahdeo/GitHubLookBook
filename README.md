@@ -1,8 +1,6 @@
 # GitHub LookBook
 
-## Look up the GitHub profiles with better UI experience.
-
-### :mag_right: Look up GitHub profiles using [GitHub LookBook](http://githublookbook.com/)!
+##  :mag_right: Look up the GitHub profiles with better UI experience.
 
 **It helps you browse social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
 
@@ -17,13 +15,3 @@ Other features help you to -
 - :rocket: Get a chance to **tweet** your work.
  
 - :construction: Many features yet to come. Please share and do have a look!
-
-### Oh, Thanks!
-
-[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge&logo=github)](http://githublookbook.com)
-
-I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.com)
-
-#### Made with :heart: by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
-
-[![Facebook](https://img.shields.io/static/v1.svg?label=Add&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
