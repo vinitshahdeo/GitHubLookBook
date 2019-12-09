@@ -1,14 +1,16 @@
-# GitHub LookBook  :mag_right:
+# GitHub LookBook  [:mag_right:](https://vinitshahdeo.github.io/GitHubLookBook/)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
-## Look up the GitHub profiles with better UI experience. 
+## [Look up](https://vinitshahdeo.github.io/GitHubLookBook/) the GitHub profiles with better UI experience.
 
-**It helps you browse social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
+> **Click [here](https://vinitshahdeo.github.io/GitHubLookBook/) to view live demo.**
+
+**It helps you [browse](https://vinitshahdeo.github.io/GitHubLookBook/) social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
 
 Other features help you to -
 
-- :octocat: Get to know about the developer’s works.
+- :octocat: [Get to know about the developer’s works](https://vinitshahdeo.github.io/GitHubLookBook/).
  
 - :file_folder: **Download** zipped folder of their codes in one go.
  
@@ -20,6 +22,21 @@ Other features help you to -
 
 ### Author
 
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/7)
+
 #### [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
+
+---------
+
+```javascript
+
+if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+}
+
+```
+
+-----------
