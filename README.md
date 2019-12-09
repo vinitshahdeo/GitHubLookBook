@@ -1,5 +1,7 @@
 # GitHub LookBook  :mag_right:
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) 
+
 ## Look up the GitHub profiles with better UI experience. 
 
 **It helps you browse social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
