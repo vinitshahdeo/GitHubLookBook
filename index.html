@@ -1,346 +1,324 @@
 <!doctype html>
 <html lang="en-US">
-<!-- Made with love by Vinit Shahdeo -->
-<!--
-
-
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ██╗      ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗  ██████╗ ██╗  ██╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██║     ██╔═══██╗██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ██║     ██║   ██║██║   ██║█████╔╝ ██████╔╝██║   ██║██║   ██║█████╔╝ 
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ██║     ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║██║   ██║██╔═██╗ 
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████╗╚██████╔╝╚██████╔╝██║  ██╗██████╔╝╚██████╔╝╚██████╔╝██║  ██╗
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-                                                                                                                      
-
-
--->
-<!--
-
-  __  __           _                 _ _   _       _                  _            
- |  \/  | __ _  __| | ___  __      _(_) |_| |__   | | _____   _____  | |__  _   _  
- | |\/| |/ _` |/ _` |/ _ \ \ \ /\ / / | __| '_ \  | |/ _ \ \ / / _ \ | '_ \| | | | 
- | |  | | (_| | (_| |  __/  \ V  V /| | |_| | | | | | (_) \ V /  __/ | |_) | |_| | 
- |_|  |_|\__,_|\__,_|\___|   \_/\_/ |_|\__|_| |_| |_|\___/ \_/ \___| |_.__/ \__, | 
- __     ___       _ _     ____  _           _         _                     |___/  
- \ \   / (_)_ __ (_) |_  / ___|| |__   __ _| |__   __| | ___  ___                  
-  \ \ / /| | '_ \| | __| \___ \| '_ \ / _` | '_ \ / _` |/ _ \/ _ \                 
-   \ V / | | | | | | |_   ___) | | | | (_| | | | | (_| |  __/ (_) |                
-    \_/  |_|_| |_|_|\__| |____/|_| |_|\__,_|_| |_|\__,_|\___|\___/                 
-                                                                                   
-
--->
-<head>
-    
-  <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html">
-  <title>Github LookBook</title>
-  <meta name="author" content="Vinit Shahdeo">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="Look up the GitHub profiles with better UI exprience. Build your GitHub Report Card!">
-    
-  <meta name="author" content="Vinit Shahdeo">
-  <meta name="email" content="vinitshahdeo@gmail.com">
-  <meta name="copyright" content="GitHub LookBook 2017"/>
-  <meta property="og:type" content="website" /> 
-  <meta property="og:title" content="GitHub LookBook" />
-  <meta property="og:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!" />
-  <meta property="og:image" content="http://githublookbook.000webhostapp.com/images/github.png" />
-  <meta property="og:url" content="githublookbook.com" />
-  <meta property="og:site_name" content="Code Combat" />
-
-  <meta name="twitter:card" content="website">
-  <meta name="twitter:site" content="GitHub LookBook">
-  <meta name="twitter:title" content="GitHub LookBook">
-  <meta name="twitter:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
-  <meta name="twitter:creator" content="@Vinit_Shahdeo">
-  <meta name="twitter:image" content="http://githublookbook.000webhostapp.com/images/github.png">
-
-  <meta itemprop="name" content="GitHub LookBook">
-  <meta itemprop="description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
-  <meta itemprop="image" content="http://githublookbook.000webhostapp.com/images/github.png">
-
-	
-  <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
-
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/style1.css" rel="stylesheet">
-  <link href="css/slideup.css" rel="stylesheet">
-
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
-  <link rel="icon" type="image/png" href="favicon.ico">
-  
-   <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/jquery.easing.min.js"></script>
-    
-<style type="text/css">
-       .fa{
-     font-size: 1.2em;
-     padding: 2px;
-     margin: 2px;
-     font-weight: bold;
-}
- .fa-code{
-     color: #356492;
-}
- .fa span{
-     font-family: Montserrat;
-     padding: 2px;
-     margin: 2px;
-     color:#616161;
-     font-size: 1em;
-}
- .fa-code{
-     color:#356492;
-}
- .fa-user{
-     color: #356492;
-}
- .fa-user-plus{
-     color: #356492;
-}
- .fa-star-o{
-     color:#356492;
-}
- .fa-github-alt{
-     color:#356492;
-}
- .fa-users{
-     color:#356492;
-}
- .fa-code-fork{
-     color:#356492;
-}
- .fa-github-square{
-     color:#356492;
-}
- .fa-file-code-o{
-     color:#356492;
-}
- .fa-twitter {
-     transition: 100ms;
-     color: #356492;
-}
- .fa-twitter span{
-     text-transform: capitalize;
-     color: #356492;
-}
- .fa-twitter:hover span{
-     color:#fafafa;
-}
- .fa-loader{
-     font-size: 2em;
-     margin-top:20px;
-     text-align: center;
-     opacity: 0.6;
-     padding-top:20px;
-}
- .fa-main{
-     font-size: 3em;
-     text-align: center;
-     opacity: 0.3;
-     padding:40px;
-     margin:20px;
-}
- .fa-frown-o{
-     font-size: 2em;
-     text-align: center;
-     color: #356492;
-     font-weight: bolder;
-}
-/*repo element*/
- @media only screen and (min-width:769px) {
-     .repo-element {
+   <!-- Made with love by Vinit Shahdeo -->
+   <!--
+      ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ██╗      ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗  ██████╗ ██╗  ██╗
+      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██║     ██╔═══██╗██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝
+      ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ██║     ██║   ██║██║   ██║█████╔╝ ██████╔╝██║   ██║██║   ██║█████╔╝ 
+      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ██║     ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║██║   ██║██╔═██╗ 
+      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████╗╚██████╔╝╚██████╔╝██║  ██╗██████╔╝╚██████╔╝╚██████╔╝██║  ██╗
+      ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                                                                                                           
+      
+      
+      -->
+   <!--
+      __  __           _                 _ _   _       _                  _            
+      |  \/  | __ _  __| | ___  __      _(_) |_| |__   | | _____   _____  | |__  _   _  
+      | |\/| |/ _` |/ _` |/ _ \ \ \ /\ / / | __| '_ \  | |/ _ \ \ / / _ \ | '_ \| | | | 
+      | |  | | (_| | (_| |  __/  \ V  V /| | |_| | | | | | (_) \ V /  __/ | |_) | |_| | 
+      |_|  |_|\__,_|\__,_|\___|   \_/\_/ |_|\__|_| |_| |_|\___/ \_/ \___| |_.__/ \__, | 
+      __     ___       _ _     ____  _           _         _                     |___/  
+      \ \   / (_)_ __ (_) |_  / ___|| |__   __ _| |__   __| | ___  ___                  
+      \ \ / /| | '_ \| | __| \___ \| '_ \ / _` | '_ \ / _` |/ _ \/ _ \                 
+       \ V / | | | | | | |_   ___) | | | | (_| | | | | (_| |  __/ (_) |                
+        \_/  |_|_| |_|_|\__| |____/|_| |_|\__,_|_| |_|\__,_|\___|\___/                 
+                                                                                       
+      
+      -->
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="Content-Type" content="text/html">
+      <title>Github LookBook</title>
+      <meta name="author" content="Vinit Shahdeo">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="description" content="Look up the GitHub profiles with better UI exprience. Build your GitHub Report Card!">
+      <meta name="author" content="Vinit Shahdeo">
+      <meta name="email" content="vinitshahdeo@gmail.com">
+      <meta name="copyright" content="GitHub LookBook 2017"/>
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="GitHub LookBook" />
+      <meta property="og:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!" />
+      <meta property="og:image" content="http://githublookbook.000webhostapp.com/images/github.png" />
+      <meta property="og:url" content="githublookbook.com" />
+      <meta property="og:site_name" content="Code Combat" />
+      <meta name="twitter:card" content="website">
+      <meta name="twitter:site" content="GitHub LookBook">
+      <meta name="twitter:title" content="GitHub LookBook">
+      <meta name="twitter:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
+      <meta name="twitter:creator" content="@Vinit_Shahdeo">
+      <meta name="twitter:image" content="http://githublookbook.000webhostapp.com/images/github.png">
+      <meta itemprop="name" content="GitHub LookBook">
+      <meta itemprop="description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
+      <meta itemprop="image" content="http://githublookbook.000webhostapp.com/images/github.png">
+      <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <link href="css/style1.css" rel="stylesheet">
+      <link href="css/slideup.css" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+      <link rel="icon" type="image/png" href="favicon.ico">
+      <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/jquery.easing.min.js"></script>
+      <style type="text/css">
+         .fa{
+         font-size: 1.2em;
+         padding: 2px;
+         margin: 2px;
+         font-weight: bold;
+         }
+         .fa-code{
+         color: #356492;
+         }
+         .fa span{
+         font-family: Montserrat;
+         padding: 2px;
+         margin: 2px;
+         color:#616161;
+         font-size: 1em;
+         }
+         .fa-code{
+         color:#356492;
+         }
+         .fa-user{
+         color: #356492;
+         }
+         .fa-user-plus{
+         color: #356492;
+         }
+         .fa-star-o{
+         color:#356492;
+         }
+         .fa-github-alt{
+         color:#356492;
+         }
+         .fa-users{
+         color:#356492;
+         }
+         .fa-code-fork{
+         color:#356492;
+         }
+         .fa-github-square{
+         color:#356492;
+         }
+         .fa-file-code-o{
+         color:#356492;
+         }
+         .fa-twitter {
+         transition: 100ms;
+         color: #356492;
+         }
+         .fa-twitter span{
+         text-transform: capitalize;
+         color: #356492;
+         }
+         .fa-twitter:hover span{
+         color:#fafafa;
+         }
+         .fa-loader{
+         font-size: 2em;
+         margin-top:20px;
+         text-align: center;
+         opacity: 0.6;
+         padding-top:20px;
+         }
+         .fa-main{
+         font-size: 3em;
+         text-align: center;
+         opacity: 0.3;
+         padding:40px;
+         margin:20px;
+         }
+         .fa-frown-o{
+         font-size: 2em;
+         text-align: center;
+         color: #356492;
+         font-weight: bolder;
+         }
+         /*repo element*/
+         @media only screen and (min-width:769px) {
+         .repo-element {
          position: relative;
          width: 30%;
          margin: 0% 1.33 2.66% 1.33%;
          float: left;
-    }
-    /*3 grid layout*/
-     .repo-element:nth-of-type(3n-2) {
+         }
+         /*3 grid layout*/
+         .repo-element:nth-of-type(3n-2) {
          width: 31.5%;
          margin: 0% 1.375% 2.75% 0%;
          clear: left;
-    }
-     .repo-element:nth-of-type(3n-1) {
+         }
+         .repo-element:nth-of-type(3n-1) {
          width: 31.5%;
          margin: 0% 1.375% 2.75% 1.375%;
-    }
-     .repo-element:nth-of-type(3n-0) {
+         }
+         .repo-element:nth-of-type(3n-0) {
          width: 31.5%;
          margin: 0% 0% 2.75% 1.375%;
          clear: right;
-    }
-}
-/* new*/
-  .slideanim {visibility:hidden;}
-  .slide {
-      animation-name: slide;
-      -webkit-animation-name: slide;	
-      animation-duration: 1s;	
-      -webkit-animation-duration: 1s;
-      visibility: visible;			
-  }
-    @keyframes slide {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      -webkit-transform: translateY(0%);
-    }	
-  }
-  @-webkit-keyframes slide {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      -webkit-transform: translateY(0%);
-    }
-  }
-    
-    /*downloads */
-    a.yourlink{
-        cursor: pointer;
-    }
-    </style>
-    
-</head>
-    
-<body>
-    
-  <div class="container" id="jumptotop">
-   
-    <h1 class="title github-logo1">GitHub <span>LookBook</span></h1>
-    <p class="subtitle">Enter usernames to discover their profiles!</p>
-  <center>
-    <input type="text" name="ghusername" id="ghusername" placeholder="Github username..." required="required">
-    
-    <a href="#" id="ghsubmitbtn"> <i class="fa fa-github" aria-hidden="true"></i> Look Up</a>
-    </center></div>
-    <div id="ghapidata" class="container"> <center> <!--<i class='fa fa-github fa-main faa-burst animated fa-4x'></i></center>-->
-        <center>
-        <div class="col-12" id="githubcat">
-              
-              <a href="https://github.com/vinitshahdeo" target="_blank"><center><img src="img/github.png" class=" rocket animated bounce" class="logo"></center></a>
-          </div></center>
-    </div>
-      
-<div class="container">
-  <!-- Start Footer -->
-      
-    
-<div id="sharing">
-     <center>  
-    <div style="margin: 10px;">
-    <div class="help-block">
-      
-    </div>
-    <div id="twitter-share-display" class="btn btn-sm btn-primary"><i class="fa fa-share"></i>Spread this</div>
-  </div>
-
-  <div style="margin: 10px;">
-    <div class="help-block">
-      
-    </div>
-    <div id="twitter-share-button" style="magin: 20px;"></div>
-  </div>
-
-  <div style="margin: 10px;">
-    <div class="help-block">
-    
-    </div>
-    <div id="twitter-share-thanks"></div>
-  </div>
-</center>   
-    </div>
-    <div id="copyright"><!--<i class="fa fa-github fa-blink"></i></a>--><hr><span class="github-logo1">GitHub <span class="lookbook">LookBook</span> &copy; 2017
-    </footer>
-        </div>
-        <script>
-            
-        $(function() {
-  $("#twitter-share-display").click(function() {
-    console.log("clicked");
-    initTwitterAPI(
-      function(event) {
-        window.twttr.widgets.createShareButton(null, document.getElementById('twitter-share-button'));
-      },
-      function(event) {
-        document.getElementById('twitter-share-thanks').innerHTML = "Thank you for your Tweet!";
-      }
-    )
-  });
-});
-
-function initTwitterAPI(loadedHandler, clickHandler) {
-  window.twttr = (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0],
-      t = window.twttr || {};
-    if (d.getElementById(id)) return t;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "https://platform.twitter.com/widgets.js";
-    fjs.parentNode.insertBefore(js, fjs);
-
-    t._e = [];
-    t.ready = function(f) {
-      t._e.push(f);
-    };
-    return t;
-  }(document, "script", "twitter-wjs"));
-
-  window.twttr.ready(function(twttr) {
-    window.twttr.events.bind('loaded', function(event) {
-      if (!event) return;
-      loadedHandler(event);
-    });
-    window.twttr.events.bind('click', function(event) {
-      if (!event) return;
-      clickHandler(event);
-    });
-  });
-};
-</script>
- <script src="js/github.js"></script>    
-     <script>
-    $(document).ready(function(){
-  $(".navbar a[href='#githubreport'], .credit a[href='#jumptotop']").on('click', function(event) {
-    event.preventDefault();
-
-    var hash = this.hash;
-
-    $('html, body').animate({
-      scrollTop: $(hash).offset().top
-    }, 900, function(){
-   
-      window.location.hash = hash;
-    });
-  });
-  
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
-
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
-    </script>
-</body>
-        
-<!--Made with love by Vinit Shahdeo -->
-        
+         }
+         }
+         /* new*/
+         .slideanim {visibility:hidden;}
+         .slide {
+         animation-name: slide;
+         -webkit-animation-name: slide;	
+         animation-duration: 1s;	
+         -webkit-animation-duration: 1s;
+         visibility: visible;			
+         }
+         @keyframes slide {
+         0% {
+         opacity: 0;
+         -webkit-transform: translateY(70%);
+         } 
+         100% {
+         opacity: 1;
+         -webkit-transform: translateY(0%);
+         }	
+         }
+         @-webkit-keyframes slide {
+         0% {
+         opacity: 0;
+         -webkit-transform: translateY(70%);
+         } 
+         100% {
+         opacity: 1;
+         -webkit-transform: translateY(0%);
+         }
+         }
+         /*downloads */
+         a.yourlink{
+         cursor: pointer;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container" id="jumptotop">
+         <h1 class="title github-logo1">GitHub <span>LookBook</span></h1>
+         <p class="subtitle">Enter usernames to discover their profiles!</p>
+         <center>
+            <input type="text" name="ghusername" id="ghusername" placeholder="Github username..." required="required">
+            <a href="#" id="ghsubmitbtn"> <i class="fa fa-github" aria-hidden="true"></i> Look Up</a>
+         </center>
+      </div>
+      <div id="ghapidata" class="container">
+         <center>
+         <!--<i class='fa fa-github fa-main faa-burst animated fa-4x'></i></center>-->
+         <center>
+            <div class="col-12" id="githubcat">
+               <a href="https://github.com/vinitshahdeo" target="_blank">
+                  <center><img src="img/github.png" class=" rocket animated bounce" class="logo"></center>
+               </a>
+            </div>
+         </center>
+      </div>
+      <div class="container">
+      <!-- Start Footer -->
+      <div id="sharing">
+         <center>
+            <div style="margin: 10px;">
+               <div class="help-block">
+               </div>
+               <div id="twitter-share-display" class="btn btn-sm btn-primary"><i class="fa fa-share"></i>Spread this</div>
+            </div>
+            <div style="margin: 10px;">
+               <div class="help-block">
+               </div>
+               <div id="twitter-share-button" style="magin: 20px;"></div>
+            </div>
+            <div style="margin: 10px;">
+               <div class="help-block">
+               </div>
+               <div id="twitter-share-thanks"></div>
+            </div>
+         </center>
+      </div>
+      <div id="copyright">
+         <!--<i class="fa fa-github fa-blink"></i></a>-->
+         <hr>
+         <span class="github-logo1">GitHub <span class="lookbook">LookBook</span> &copy; 2017
+         </footer>
+      </div>
+      <script>
+         $(function() {
+         $("#twitter-share-display").click(function() {
+         console.log("clicked");
+         initTwitterAPI(
+         function(event) {
+         window.twttr.widgets.createShareButton(null, document.getElementById('twitter-share-button'));
+         },
+         function(event) {
+         document.getElementById('twitter-share-thanks').innerHTML = "Thank you for your Tweet!";
+         }
+         )
+         });
+         });
+         
+         function initTwitterAPI(loadedHandler, clickHandler) {
+         window.twttr = (function(d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0],
+         t = window.twttr || {};
+         if (d.getElementById(id)) return t;
+         js = d.createElement(s);
+         js.id = id;
+         js.src = "https://platform.twitter.com/widgets.js";
+         fjs.parentNode.insertBefore(js, fjs);
+         
+         t._e = [];
+         t.ready = function(f) {
+         t._e.push(f);
+         };
+         return t;
+         }(document, "script", "twitter-wjs"));
+         
+         window.twttr.ready(function(twttr) {
+         window.twttr.events.bind('loaded', function(event) {
+         if (!event) return;
+         loadedHandler(event);
+         });
+         window.twttr.events.bind('click', function(event) {
+         if (!event) return;
+         clickHandler(event);
+         });
+         });
+         };
+      </script>
+      <script src="js/github.js"></script>    
+      <script>
+         $(document).ready(function(){
+         $(".navbar a[href='#githubreport'], .credit a[href='#jumptotop']").on('click', function(event) {
+         event.preventDefault();
+         
+         var hash = this.hash;
+         
+         $('html, body').animate({
+           scrollTop: $(hash).offset().top
+         }, 900, function(){
+         
+           window.location.hash = hash;
+         });
+         });
+         
+         $(window).scroll(function() {
+         $(".slideanim").each(function(){
+           var pos = $(this).offset().top;
+         
+           var winTop = $(window).scrollTop();
+             if (pos < winTop + 600) {
+               $(this).addClass("slide");
+             }
+         });
+         });
+         })
+      </script>
+   </body>
+   <!--Made with love by Vinit Shahdeo -->
 </html>
