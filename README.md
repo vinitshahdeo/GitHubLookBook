@@ -1,21 +1,11 @@
-# GitHub [LookBook](http://githublookbook.com/)
-
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/GitHubLookBook.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/GitHubLookBook.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
+# GitHub LookBook
 
 ## Look up the GitHub profiles with better UI experience.
 
-[![GitHub LookBook](https://img.shields.io/badge/GitHub-LookBook-blue.svg?style=flat&logo=github)](http://githublookbook.com/) [![GitHub API](https://img.shields.io/badge/GitHub-API-teal.svg?style=flat&logo=github)](https://developer.github.com/v3/)
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/GitHub-LookBook.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/GitHub-LookBook/blob/master/LICENSE)
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/)
-
-## Features
-
 ### :mag_right: Look up GitHub profiles using [GitHub LookBook](http://githublookbook.com/)!
 
-[![features](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://githublookbook.com/) 
+**It helps you browse social coder’s and organization’s profiles and offers you a glimpse to their world of code.**
 
-It helps you browse social coder’s and organisation’s profiles and offers you a glimpse to their world of code.
 Other features help you to -
 
 - :octocat: Get to know about the developer’s works.
@@ -28,8 +18,6 @@ Other features help you to -
  
 - :construction: Many features yet to come. Please share and do have a look!
 
-[![smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](http://githublookbook.com/)
-
 ### Oh, Thanks!
 
 [![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge&logo=github)](http://githublookbook.com)
@@ -39,8 +27,3 @@ I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.
 #### Made with :heart: by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=Add&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
-
----
-
-[![twitter](https://img.shields.io/static/v1.svg?label=Tweet&message=@Vinit_Shahdeo&logo=twitter&style=social)](https://twitter.com/Vinit_Shahdeo) [![github](https://img.shields.io/static/v1.svg?label=Follow&message=@vinitshahdeo&logo=github&style=social)](https://www.github.com/vinitshahdeo) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) 
-
