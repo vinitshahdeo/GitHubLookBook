@@ -214,7 +214,6 @@ $(function() {
                         });
 
                         outhtml = outhtml + '</div></div>';
-                        outhtml = outhtml + '<div class="container"><center><a id="download" class="yourlink">Download All</a></center></div>';
                         outhtml = outhtml + '<center><div class="container"><div class="row me-row content-ct speaker slideanim" id="githubreport"><center><div class="feature"><h2 class="row-title report-title">Github Report</h2><p class="poweredby">Powered by GitHub LookBook</p><h3>Open Source Contribution by ' + fullname + '</h3><hr><p><a href="' + profileurl + '" target="_blank">' + fullname + '</a> is contributing since <strong>' + month + ', ' + year + '</strong>. Till date, ' + fullname + ' has <strong>' + reposnum + ' public repos</strong> with total of <strong>' + totalstars + ' stars</strong> and <strong>' + totalforks + ' forks</strong>.</p>';
                         var j;
                         if (i != 0) {
@@ -261,3 +260,9 @@ $(function() {
         });
     }
 });
+
+/* downlods*/
+$('#download').click(function() {
+    download('http://nogin.info/cv.doc','http://nogin.info/cv.doc');
+  });
+  
