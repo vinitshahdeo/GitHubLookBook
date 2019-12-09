@@ -1,6 +1,6 @@
 # GitHub LookBook  :mag_right:
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
 ## Look up the GitHub profiles with better UI experience. 
 
@@ -19,6 +19,8 @@ Other features help you to -
 - :construction: Many features yet to come. Please share and do have a look!
 
 ### Author
+
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/7)
 
 #### [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
