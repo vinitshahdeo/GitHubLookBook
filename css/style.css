@@ -172,6 +172,10 @@ a:hover, a:focus, a:active, a:visited {
     color: #016cc7;
 }
 
+.repos > h3 {
+    overflow-wrap: break-word;
+}
+
 .speaker .repos {
     width: 31.333333%;
     -webkit-transition: all 0.3s;
